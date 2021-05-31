@@ -1,5 +1,5 @@
 {
-    "botToken": null,
+    "botToken": "1727522174:AAG9ZZ6k9jSmMC3JfnkTfIbStCAefjAjm-k",
 
     "connectionType": "polling",
 
@@ -15,7 +15,7 @@
         "sslPrivateKey": null
     },
     
-    "adminId" : null,
+    "adminId" : "1173370352",
 
     "database": "database.sqlite",
 
